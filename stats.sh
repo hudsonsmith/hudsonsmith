@@ -1,3 +1,3 @@
 #! /bin/bash
-bash=4178
-vim=1
+bash=6347
+vim=1159
