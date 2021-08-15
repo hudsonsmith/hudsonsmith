@@ -4,6 +4,8 @@
 # This is because I had upgraded from WSL 1 to 2 and
 # during the upgrade process my bash history got wiped out.
 
+source ./stats.sh
+
 cat <<- _MARKDOWN_
 # Hello there!
 
@@ -11,8 +13,8 @@ I am just another ordinary GitHub user...
 That really likes Linux and Vim.
 
 ### Stats
-Vim opened `expr $(cat ~/.bash_history | grep "^vim" | wc -l) + 700` times!
-`expr $(cat ~/.bash_history | wc -l) + 4000` Bash commands ran!
+Vim opened $vim times!
+$bash Bash commands ran!
 
 ### Quicklinks
 - [Symlink Tool](https://github.com/hudsonsmith/symlink-tool)
