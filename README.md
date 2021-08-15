@@ -4,8 +4,8 @@ I am just another ordinary GitHub user...
 That really likes Linux and Vim.
 
 ### Stats
-Vim opened  times!
- Bash commands ran!
+Vim opened 1160 times!
+10529 Bash commands ran!
 
 ### Quicklinks
 - [Symlink Tool](https://github.com/hudsonsmith/symlink-tool)

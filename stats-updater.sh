@@ -10,8 +10,10 @@ source ./stats.sh
 
 # Update the stats file.
 echo "#! /bin/bash" > ./stats.sh
-echo "bash=`expr $bash + ($bash - $(cat ~/.bash_history | wc -l))`" >> ./stats.sh
-echo "vim=`expr $vim + ($vim -$(cat ~/.bash_history | grep "^vim" | wc -l))`" >> ./stats.sh
+
+# Please note that this does not work yet and needs to be fixed.
+echo "bash=`expr $bash + $(cat ~/.bash_history | wc -l)`" >> ./stats.sh
+echo "vim=`expr $vim + $(cat ~/.bash_history | grep "^vim" | wc -l)`" >> ./stats.sh
 
 # Update the readme.md file.
 /mnt/c/Users/hudso/_dev/readme-repo/template.sh > /mnt/c/Users/hudso/_dev/readme-repo/README.md
