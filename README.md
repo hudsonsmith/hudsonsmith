@@ -14,8 +14,9 @@
 
 ## Stats
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
 
 ## Skills
 
