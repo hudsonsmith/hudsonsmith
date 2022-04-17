@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hudson Smith
-
+  ![thing](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fipiccy.com%2Fres%2FLP%2Fdata%2Fimages%2Fyoutube-banner-maker-b0i.jpg&f=1&nofb=1)
   ![python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![bash badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
