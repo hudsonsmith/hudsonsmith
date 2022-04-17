@@ -9,11 +9,13 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true)
+  
+</div>
 
 
 ## Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
 
@@ -33,4 +35,3 @@ Vim opened 1160 times!
 - [Math Killer Windows](https://github.com/hudsonsmith/math-killer-windows)
 - [Vimrc Collection](https://github.com/hudsonsmith/vimrc-collection)
 
-</div>
