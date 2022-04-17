@@ -9,7 +9,7 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
-</div>
+
 
 ## Stats
 
@@ -32,3 +32,5 @@ Vim opened 1160 times!
 - [Math Killer Linux/Unix](https://github.com/hudsonsmith/math-killer-linux-and-unix)
 - [Math Killer Windows](https://github.com/hudsonsmith/math-killer-windows)
 - [Vimrc Collection](https://github.com/hudsonsmith/vimrc-collection)
+
+</div>
