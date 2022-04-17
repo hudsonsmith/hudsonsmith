@@ -1,6 +1,7 @@
 # Hello there!
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
 
 I am just another ordinary GitHub user...
