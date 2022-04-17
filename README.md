@@ -1,5 +1,7 @@
 # Hello there!
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true)
+
 I am just another ordinary GitHub user...
 That really likes Linux and Vim.
 
