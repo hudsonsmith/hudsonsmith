@@ -26,18 +26,9 @@
 ## Skills
 
 <details>
-<summary>Heading1</summary>
+<summary>Python</summary>
 
-some text
-+ <details>
-    <summary>Heading1.1</summary>
-
-    some more text
-    + <details>
-        <summary>Heading1.1.1</summary>
-        even more text
-      </details>
-   </details>
+  Some project here.
 </details>
 
 I am just another ordinary GitHub user...
