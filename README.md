@@ -12,7 +12,7 @@
   
 </div>
 
-## Stats
+<h1 text-align="center">Stats</h1>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true)
 
