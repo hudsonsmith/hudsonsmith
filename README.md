@@ -26,12 +26,19 @@
 ## Skills
 
 <details>
-<summary>Heading</summary>
-<!--All you need is a blank line-->
+<summary>Heading1</summary>
 
-    # Cool
+some text
++ <details>
+    <summary>Heading1.1</summary>
+
+    some more text
+    + <details>
+        <summary>Heading1.1.1</summary>
+        even more text
+      </details>
+   </details>
 </details>
-
 
 I am just another ordinary GitHub user...
 That really likes Linux and Vim.
