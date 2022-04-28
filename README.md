@@ -43,6 +43,15 @@ Here are some cool projects of mine:
   
   Since it is mine, I will update it for everybody, whenever I get a want a new feature, you will get it too.
 
+  # Features
+  - Minimalistic looks inspired by modern IDEs.
+  - Sane defaults for insane people.
+  - Modern Git support.
+  - FZF support.
+  - Better start screen with Dashboard-nvim
+  - Custom made statusline made specifically for Doom Neovim.
+  - Better git commit that shows git diffs in a vertical split.
+  
 </details>
 <!-- 
 
