@@ -8,8 +8,7 @@
   ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  
+
 </div>
 
 
@@ -28,6 +27,9 @@ My name is Hudson Smith and I am a developer that likes linux, bash, and python.
 
 I have been programming for a long time.
 
+
+# 📦 Code, Code, Code
+
 Here are some cool projects of mine:
 
 <details>
@@ -40,17 +42,7 @@ Here are some cool projects of mine:
   Since it is mine, I will update it for everybody, whenever I get a want a new feature, you will get it too.
 
 </details>
-  
-## Skills
-
-<details>
-<summary>Python</summary>
-
-  Some project here.
-</details>
-
-I am just another ordinary GitHub user...
-That really likes Linux and Vim.
+<!-- 
 
 ### Stats
 Vim opened 1160 times!
@@ -61,4 +53,4 @@ Vim opened 1160 times!
 - [Math Killer Linux/Unix](https://github.com/hudsonsmith/math-killer-linux-and-unix)
 - [Math Killer Windows](https://github.com/hudsonsmith/math-killer-windows)
 - [Vimrc Collection](https://github.com/hudsonsmith/vimrc-collection)
-
+ -->
