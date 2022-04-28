@@ -12,13 +12,13 @@
   
 </div>
 
-<div align="center">
+
   
-  # Stats
+# Stats
   
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true)
   
-</div>
+
   
 
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith) -->
