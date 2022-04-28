@@ -43,7 +43,7 @@ Here are some cool projects of mine:
   
   Since it is mine, I will update it for everybody, whenever I get a want a new feature, you will get it too.
 
-  # Features
+  ### Features
   - Minimalistic looks inspired by modern IDEs.
   - Sane defaults for insane people.
   - Modern Git support.
