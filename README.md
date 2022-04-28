@@ -35,7 +35,7 @@ Here are some cool projects of mine:
 <details>
   <summary>Doom Neovim</summary>
   
-  ### Doom Neovim
+  ---
   
   Link: [Doom Neovim](https://github.com/hudsonsmith/doom-neovim)
   
