@@ -23,7 +23,9 @@
 
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith) -->
 
-## 👋 Hello!
+<div align="center">
+  # 👋 Hello!
+</div>
 
 My name is Hudson Smith and I am a developer that likes linux, bash, and python.
 
