@@ -26,6 +26,12 @@
 
 My name is Hudson Smith and I am a developer that likes linux, bash, and python.
 
+I have been programming for a long time.
+
+Here are some cool projects of mine:
+
+Doom Neovim
+
 ## Skills
 
 <details>
