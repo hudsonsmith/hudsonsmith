@@ -30,8 +30,17 @@ I have been programming for a long time.
 
 Here are some cool projects of mine:
 
-Doom Neovim
+<details>
+  <summary>Doom Neovim</summary>
+  
+  Link: ![Doom Neovim](https://github.com/hudsonsmith/doom-neovim)
+  
+  Doom Neovim is my own custom flavor of Neovim that I use on a daily basis.
+  
+  Since it is mine, I will update it for everybody, whenever I get a want a new feature, you will get it too.
 
+</details>
+  
 ## Skills
 
 <details>
