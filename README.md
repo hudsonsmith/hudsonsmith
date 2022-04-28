@@ -16,7 +16,7 @@
   
 # 📊 Stats
   
-Profile Views: ![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
+![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true)
 
