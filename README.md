@@ -49,7 +49,7 @@ Here are some cool projects of mine:
   
   Doom Neovim is my own custom flavor of Neovim that I use on a daily basis.
   
-  Since it is mine, I will update it for everybody, whenever I get a want a new feature, you will get it too.
+  Since it is mine, I will update it for everybody, whenever I get a new feature, you will get it too.
 
   ### Features
   - Minimalistic looks inspired by modern IDEs.
