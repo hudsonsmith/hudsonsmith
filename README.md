@@ -16,7 +16,11 @@
   
 # 📊 Stats
   
-![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
+<div align="center">
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
+
+</div>
 
 <div align="center">
   
