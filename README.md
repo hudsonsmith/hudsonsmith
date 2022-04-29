@@ -20,8 +20,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsmith" height="50vh" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true&theme=dracula" height="50vh" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsmith" height="200vh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true&theme=dracula" height="200vh" />
 
 </div>
   
