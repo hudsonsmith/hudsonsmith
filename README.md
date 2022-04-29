@@ -18,9 +18,8 @@
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsmith)](https://github.com/anuraghazra/github-readme-stats)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsmith)](https://github.com/anuraghazra/github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true&theme=dracula" />
 
   
 # 👋 Hello!
