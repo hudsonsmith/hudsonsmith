@@ -18,8 +18,8 @@
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsmith" height="200vh" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true&theme=dracula" height="200vh" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsmith" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true&theme=dracula" />
   
 # 👋 Hello!
 
