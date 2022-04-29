@@ -18,7 +18,7 @@
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsmith)](https://github.com/anuraghazra/github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonsmith" />
 <img src="https://github-readme-stats.vercel.app/api?username=hudsonsmith&show_icons=true&theme=dracula" />
 
   
