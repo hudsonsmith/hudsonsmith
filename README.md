@@ -45,6 +45,8 @@ Here are some cool projects of mine:
   
   ---
   
+  !(Doom Neovim Image)[https://raw.githubusercontent.com/hudsonsmith/doom-neovim/main/doom-neovim.png]
+  
   Link: [Doom Neovim](https://github.com/hudsonsmith/doom-neovim)
   
   Doom Neovim is my own custom flavor of Neovim that I use on a daily basis.
