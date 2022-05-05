@@ -18,7 +18,8 @@
 <div align="center">
   
   ![Profile View Counter](https://komarev.com/ghpvc/?username=hudsonsmith)
-
+  ***Hey, I would really appreciate it if you followed me!***
+  
 </div>
 
 <div align="center">
