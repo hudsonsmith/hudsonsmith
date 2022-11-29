@@ -1,7 +1,6 @@
 <div align="center">
 
-  # Hudson Smith
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=5184000&center=true&width=435&lines=Hudson+Smith)](https://git.io/typing-svg)
   ![banner](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fipiccy.com%2Fres%2FLP%2Fdata%2Fimages%2Fyoutube-banner-maker-b0i.jpg&f=1&nofb=1)
   ![python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![bash badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
