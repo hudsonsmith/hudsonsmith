@@ -14,7 +14,7 @@
 
   # Stats
 
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hudsonsmith&theme=github-dark)
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hudsonsmith&theme=gruvbox)
   
 </div>
 
