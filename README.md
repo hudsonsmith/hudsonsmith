@@ -18,4 +18,3 @@ A seasoned programmer with a focus on Python and Bash as his primary languages. 
 
   - [n1](https://github.com/hudsonsmith/n1/tree/main) (Easy Bash theming)
   - [My Neovim Config (Deprecated)](https://github.com/hudsonsmith/doom-neovim) (I switched to using a public config that I like)
-  - [Spotify DL](https://github.com/hudsonsmith/spotify_dl) (Download your entire spotify playlist)
