@@ -18,3 +18,4 @@ A seasoned programmer with a focus on Python and Bash as his primary languages. 
 
   - [n1](https://github.com/hudsonsmith/n1/tree/main) (Easy Bash theming)
   - [My Neovim Config (Deprecated)](https://github.com/hudsonsmith/doom-neovim) (I switched to using a public config that I like)
+  - [Pretty Printing](https://github.com/hudsonsmith/pretty_printing_logs) (Python module with support for colors!)
