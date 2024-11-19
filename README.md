@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="20200303_143334.jpg" width=350>
+  <img src="rosetransparent2.png" width=200>
 
   <hr>
   
