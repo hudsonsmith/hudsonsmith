@@ -24,9 +24,12 @@ This means that I cannot share many server configurations or dotfiles, as they a
 
 For example, the multiple game servers I have hosted contain sensitive player info that I do not wish to expose to the public.
 
+---
+
 Projects I've done recently include:
 - Installing Arch Linux on a Chromebook
 - Configuring OpenCore to install MacOS on an Intel Skylake based PC.
 - Learning how to use Cheat Engine to engineer various hacks using C#
 - Maintained A+ in all of my Computer Science classes at school
 - Developing a custom web browser for school chromebooks
+- Learning about UEFI bootchains and TPM
