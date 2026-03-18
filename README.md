@@ -24,6 +24,9 @@ This means that I cannot share many server configurations or dotfiles, as they a
 
 For example, the multiple game servers I have hosted contain sensitive player info that I do not wish to expose to the public.
 
+I apologize if my repo history looks stale right now.
+With the combination of taking AP Computer Science, and Video Game Programming, most time I have to program is used on those classes.
+
 ---
 
 Projects I've done recently include:
