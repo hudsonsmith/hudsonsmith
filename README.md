@@ -22,4 +22,11 @@ As of late 2025, I have privated many repos that were created during middle scho
 Right now, I am focusing on practical applications of devops in production environments (hosting sites and servers for friends)
 This means that I cannot share many server configurations or dotfiles, as they are closely coupled with the environments which they are/were designed.
 
-For example, the multiple minecraft servers I have hosted contain sensitive player info that I do not wish to expose to the public.
+For example, the multiple game servers I have hosted contain sensitive player info that I do not wish to expose to the public.
+
+Projects I've done recently include:
+- Installing Arch Linux on a Chromebook
+- Configuring OpenCore to install MacOS on an Intel Skylake based PC.
+- Learning how to use Cheat Engine to engineer various hacks using C#
+- Maintained A+ in all of my Computer Science classes at school
+- Developing a custom web browser for school chromebooks
